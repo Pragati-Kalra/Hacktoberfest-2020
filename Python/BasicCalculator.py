@@ -32,7 +32,7 @@ if select == '1':
 
 elif select == '2':
 	print(number_1, '-', number_2, '=')
-	print(sub(number_1, number_2))
+	print(sub(number_1, number_2)) 
 
 elif select == '3':
 	print(number_1, '*', number_2, '=')
